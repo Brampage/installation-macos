@@ -92,7 +92,7 @@ Changes directory based upon a hidden score z gives to the directories you navig
 
 `fisher add jethrokuan/z`
 
-After installation & usage:
+How to use:
 1. Change directory to a couple of directories: `cd ~/.ssh`, `cd /users/bramgroothedde`
 2. `z bram` followed by `tab`
 3. Changes directory to `/users/bramgroothedde`
@@ -101,14 +101,13 @@ After installation & usage:
 
 To customize the promt of the Fish shell you can use [SpaceFish](https://github.com/matchai/spacefish). SpaceFish can be installed using Fisher with the command: `fisher add matchai/spacefish`.
 
+### **Configure TheFuck alias**
+
+1. `thefuck --alias ez > ~/.config/fish/functions/ez.fish`
+
 ### **Other**
 
 For more awesome Fish stuff see [this repository](https://github.com/jorgebucaran/awesome-fish).
-
-## Configure TheFuck alias
-
-1. `thefuck --alias ez > ~/.config/fish/functions/ez.fish`
-Install z for directory jumping: 
 
 # Manual MacOS configurations
 
