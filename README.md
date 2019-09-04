@@ -112,6 +112,11 @@ Install z for directory jumping:
 
 # Manual MacOS configurations
 
+SSH Key: 
+- Open iTerm/Terminal
+    - Run `ssh-keygen -t rsa`
+    - Run `cat ~/.ssh/id_rsa.pub | pbcopy` when you need to use it
+
 Dock:
 - Remove not needed icons from the Dock
 - Right-click dock -> dock preferences
@@ -139,17 +144,4 @@ System Preferences:
         - Require password IMMEDIATELY
 - Energy Saver
     - Turn display off after 10MINUTES
-
-
-
-
-
-
-
-
-
-
-
-
-
 
