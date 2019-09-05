@@ -36,6 +36,7 @@ Lets say we want to install iTerm. We search for its name as follows: `brew sear
 6. Spectacle: Move and resize windows with ease using shortcuts like `cmd+option+left-arrow`
 7. AppCleaner: is a small application which allows you to thoroughly uninstall unwanted apps
 
+*For VSCode I recommend installing the Settings Sync. Settings Sync lets you upload and download your VSCode settings.*
 
 ## Configure quick access to iTerm
 
