@@ -134,7 +134,7 @@ System Preferences:
 - Accessibility
     - Mouse & Trackpad
         - Trackpad Options
-            - Enable dragging ON | THREE FINGER DRAG
+            - Enable dragging ON | THREE FINGER DRAG (continue with three fingers after release to continue selecting)
 - Desktop & Screen Saver
     - Screen Saver
         - Hot Corners
