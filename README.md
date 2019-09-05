@@ -38,9 +38,9 @@ Lets say we want to install iTerm. We search for its name as follows: `brew sear
 
 *For VSCode I recommend installing the Settings Sync. Settings Sync lets you upload and download your VSCode settings.*
 
-## Configure quick access to iTerm
+## Configure iTerm
 
-Alternative terminal with loads of configuration options.
+To quick access iTerm:
 
 1. Go to Preferences (`cmd+,`)
 2. Go to Profiles
@@ -50,6 +50,12 @@ Alternative terminal with loads of configuration options.
 6. Go to the subtab Window
 7. Set the style dropdown to: `Full-Width Bottom of Screen`
 8. Change the `transparancy` as you like
+
+To open files from the `ls` command, download files from remote hosts etc.:
+
+1. Open iTerm
+2. Click `iTerm` from menu
+3. Click `Install Shell Integration`
 
 ## Google Chrome Extensions
 
@@ -84,6 +90,8 @@ is nice to have for when you want to read further on your mobile phone.
 ### **Fisher package manager**
 
 There is also a package manager for Fish, called Fisher. At the time of writing Fisher can't be installed using brew. To install it please go to the [Github page](https://github.com/jorgebucaran/fisher).
+
+Run `fish_config` to change your prompt.
 
 You can add awesome fish packages using: `fisher add fish-package`
 
