@@ -38,6 +38,14 @@ Lets say we want to install iTerm. We search for its name as follows: `brew sear
 
 *For VSCode I recommend installing the Settings Sync. Settings Sync lets you upload and download your VSCode settings.*
 
+## Configure window manager Yabai
+
+With Yabai it is possible to arrange your windows in any way to improve your productivity.
+
+SKHD manages your shortcuts for it.
+
+Alongside this project you can find the config files.
+
 ## Configure iTerm
 
 To quick access iTerm:
