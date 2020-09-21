@@ -97,11 +97,11 @@ is nice to have for when you want to read further on your mobile phone.
 
 ### **Fisher package manager**
 
-There is also a package manager for Fish, called Fisher. At the time of writing Fisher can't be installed using brew. To install it please go to the [Github page](https://github.com/jorgebucaran/fisher).
+There is also a package manager for Fish, called Fisher ([not to be confused with Oh My Fish](https://github.com/jorgebucaran/fisher/issues/481), omf is a framework whereas Fisher is solely a package manager). At the time of writing Fisher can't be installed using brew. To install it please go to the [Github page](https://github.com/jorgebucaran/fisher).
 
 Run `fish_config` to change your prompt.
 
-You can add awesome fish packages using: `fisher add fish-package`
+You can add awesome fish packages using: `fisher add fish-package` or for (non brew installable packages) `ffisher add jorgebucaran/nvm.fish`.
 
 ### **Directory jumping**
 
@@ -113,6 +113,16 @@ How to use:
 1. Change directory to a couple of directories: `cd ~/.ssh`, `cd /users/bramgroothedde`
 2. `z bram` followed by `tab`
 3. Changes directory to `/users/bramgroothedde`
+
+### **nvm**
+
+Changes the node version.
+
+`fisher add jorgebucaran/nvm.fish`
+
+How to use:
+1. `nvm use 8` (version 8)
+2. `nvm use latest`
 
 ### **Fish SpaceFish-package** 
 
