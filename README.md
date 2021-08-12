@@ -26,16 +26,16 @@ Lets say we want to install iTerm. We search for its name as follows: `brew sear
 
 # Casks for Web Development
 
-`brew install --cask iterm2 cyberduck google-chrome hyperswitch postman spotify slack telegram visual-studio-code flux spectacle appcleaner enpass teamspeak-client teamviewer maccy`
+`brew install --cask iterm2 cyberduck google-chrome hyperswitch postman spotify slack telegram visual-studio-code flux spectacle appcleaner enpass teamspeak-client teamviewer maccy alt-tab`
 
 1. iTerm: alternative terminal with lots of configuration options
 2. Cyberduck: is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox
-3. HyperSwitch: enables you swap between all application windows using `cmd+tab`
-4. Postman: is a great tool when trying to dissect RESTful APIs made by others or test ones you have made yourself
-5. Flux: makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
-6. Spectacle: Move and resize windows with ease using shortcuts like `cmd+option+left-arrow`
-7. AppCleaner: is a small application which allows you to thoroughly uninstall unwanted apps
-8. Maccy: A Clipboard manager
+3. Postman: is a great tool when trying to dissect RESTful APIs made by others or test ones you have made yourself
+4. Flux: makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+5. Spectacle: Move and resize windows with ease using shortcuts like `cmd+option+left-arrow`
+6. AppCleaner: is a small application which allows you to thoroughly uninstall unwanted apps
+7. Maccy: is a Clipboard manager like Ditto (Windows)
+8. AltTab: brings the power of Windows’s “alt-tab” window switcher to macOS
 
 *For VSCode I recommend installing the Settings Sync. Settings Sync lets you upload and download your VSCode settings.*
 
