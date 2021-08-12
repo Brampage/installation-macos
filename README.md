@@ -26,7 +26,7 @@ Lets say we want to install iTerm. We search for its name as follows: `brew sear
 
 # Casks for Web Development
 
-`brew cask install iterm2 cyberduck google-chrome hyperswitch postman spotify slack telegram visual-studio-code flux spectacle appcleaner enpass teamspeak-client teamviewer`
+`brew install --cask iterm2 cyberduck google-chrome hyperswitch postman spotify slack telegram visual-studio-code flux spectacle appcleaner enpass teamspeak-client teamviewer maccy`
 
 1. iTerm: alternative terminal with lots of configuration options
 2. Cyberduck: is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox
@@ -35,6 +35,7 @@ Lets say we want to install iTerm. We search for its name as follows: `brew sear
 5. Flux: makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
 6. Spectacle: Move and resize windows with ease using shortcuts like `cmd+option+left-arrow`
 7. AppCleaner: is a small application which allows you to thoroughly uninstall unwanted apps
+8. Maccy: A Clipboard manager
 
 *For VSCode I recommend installing the Settings Sync. Settings Sync lets you upload and download your VSCode settings.*
 
